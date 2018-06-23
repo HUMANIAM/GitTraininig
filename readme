@@ -1,4 +1,39 @@
-Hello, This is training on how to use git as a control version 
-in this training i learn how to use commands to do that.
+trl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+country=GB
 
-1-test git pull
+network={
+        ssid="Cordoba"
+        psk="cordoba99999"
+        key_mgmt=WPA-PSK
+}
+
+network={
+        ssid="Ahmed Elsaka"
+        psk="157940123wifi"
+        key_mgmt=WPA-PSK
+}
+
+
+network={
+        ssid="osama"
+        psk="osama#109#"
+        key_mgmt=WPA-PSK
+}
+
+network={
+        ssid="elsaka"
+        psk="00000000"
+        key_mgmt=WPA-PSK
+}
+
+
+
+
+
+
+
+
+
+
+
