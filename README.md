@@ -25,25 +25,26 @@ training in git to learn how to use it efficiantly
 
 ### Links
 
-#### Format: \!\[Alt Text\]\(url\)
+#### Format: \[Alt Text\]\(url\)
 [Coursera](https://coursera.org)
 
 ### Blockquotes
 
-#### Format: \>line
-			   \>
+#### Format: 
+\>line
+\>line
 #### EX : He said
-
 > if you are going to try go all the way
 > otherwise don't even start.
 
 ### Inline code
 
 I think you should use an
-`<addr>` element here instead.
+`hello` element here instead.
 
-### Syntax highlighting
+## Syntax highlighting
 
+#### Format: 
 #### \`\`\`yourlanguage name say javascript
 #### your code
 \`\`\`
