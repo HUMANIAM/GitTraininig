@@ -66,5 +66,10 @@ function fancyAlert(arg) {
 #### Format : \[x\] complete task
 ####			 \[\] incomplete task
 #### EX: 
-- [x] this is a complete item
-- [ ] this is an incomplete item
+[x] this is a complete item
+[ ] this is an incomplete item
+
+## Emotions
+
+### Format : :+code: or :emotion Name:
+:+1: and :shipit:
