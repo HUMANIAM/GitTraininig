@@ -24,11 +24,18 @@ training in git to learn how to use it efficiantly
 * #### Format: \!\[Alt Text\]\(url\)
 [Coursera](https://coursera.org)
 
+### Blockquotes
+* #### Format: \>line
+			   \>
+* #### EX : He said
 
-As Kanye West said:
+> if you are going to try go all the way
+> otherwise don't even start.
 
-> We're living the future so
-> the present is our past.
+### Inline code
+I think you should use an
+`<addr>` element here instead.
+	
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
