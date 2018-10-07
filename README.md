@@ -39,6 +39,9 @@ training in git to learn how to use it efficiantly
 
 ### Inline code
 
+#### Format: blah blah ` printf("hello world") ` blah blah
+
+#### EX
 I think you should use an
 `hello` element here instead.
 
