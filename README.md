@@ -5,7 +5,12 @@ training in git to learn how to use it efficiantly
 ## Git Markdown
 
 ### 1- Headers
-* #### [h1:#, h2:##, ........., h6:#4#]
+1. #### h1 (# text) 
+2. #### h2 (## text) 
+3. #### h3 (### text) 
+4. #### h4 (#### text) 
+5. #### h5 (##### text) 
+6. #### h6 (###### text) 
 
 
 ```javascript
@@ -15,8 +20,10 @@ function fancyAlert(arg) {
   }
 }
 ```
-    function fancyAlert(arg) {
-          if(arg) {
-            $.facebox({div:'#foo'})
-          }
-        }
+```python
+function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+```
