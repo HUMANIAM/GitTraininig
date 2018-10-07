@@ -1,4 +1,12 @@
-### training on git commands and markdown editing
+###training on git commands and markdown editing
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
 
 
