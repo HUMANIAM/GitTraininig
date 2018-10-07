@@ -1,31 +1,4 @@
-trl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
-update_config=1
-country=GB
-
-network={
-        ssid="Cordoba"
-        psk="cordoba99999"
-        key_mgmt=WPA-PSK
-}
-
-network={
-        ssid="Ahmed Elsaka"
-        psk="157940123wifi"
-        key_mgmt=WPA-PSK
-}
-
-
-network={
-        ssid="osama"
-        psk="osama#109#"
-        key_mgmt=WPA-PSK
-}
-
-network={
-        ssid="elsaka"
-        psk="00000000"
-        key_mgmt=WPA-PSK
-}
+###training on git commands and markdown editing
 
 
 
