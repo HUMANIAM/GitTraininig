@@ -15,3 +15,8 @@ function fancyAlert(arg) {
   }
 }
 ```
+    function fancyAlert(arg) {
+          if(arg) {
+            $.facebox({div:'#foo'})
+          }
+        }
