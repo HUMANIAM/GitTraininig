@@ -1,15 +1,4 @@
-###training on git commands and markdown editing
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-[ ] this is an incomplete item
-
+#this repo about git training
 
 
 
