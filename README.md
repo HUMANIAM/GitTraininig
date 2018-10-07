@@ -13,9 +13,19 @@ training in git to learn how to use it efficiantly
 6. #### h6 (###### text) 
 
 ### Emphasis
-1. #### ** bold text ** (** text **)
-2. ### * italic text * ( * text *)
+1. ####  **bold text**  (2\*text2\*)
+2. ### *italic text*  ( 1\*text1\*)
 
+### Images
+* #### Format: ![Alt Text](url)
+* #### EX : ![Github log](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+
+### Links
+* #### Format: ![Alt Text](url)
+* #### EX : [Coursera](https://coursera.org)
+
+
+* ####
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
