@@ -17,15 +17,18 @@ training in git to learn how to use it efficiantly
 2. ### *italic text*  ( 1\*text1\*)
 
 ### Images
-* #### Format: ![Alt Text](url)
-* #### EX : ![Github log](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+* #### Format: \!\[Alt Text\]\(url\)
+![Github log](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
 
 ### Links
-* #### Format: ![Alt Text](url)
-* #### EX : [Coursera](https://coursera.org)
+* #### Format: \!\[Alt Text\]\(url\)
+[Coursera](https://coursera.org)
 
 
-* ####
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
